@@ -1,6 +1,6 @@
 
 
-# Gaussian Splat Selection with SAM + ZoeDepth
+# Semi-Automatic View-Based Segmentation of Gaussian Splat Scenes
 
 This project builds on **Aras Pranckevičius’ Unity Gaussian Splatting renderer** and integrates it with:
 
