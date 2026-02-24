@@ -1,4 +1,4 @@
-
+![Visual](Truck_visual.png)
 
 # Semi-Automatic View-Based Segmentation of Gaussian Splat Scenes
 
@@ -11,6 +11,8 @@ The goal is **interactive, depth-aware selection of Gaussian splats in Unity**:
 click on an object in the view → SAM selects everything in that 2D region → ZoeDepth finds the depth of the clicked surface → splats *behind* that depth get deselected, leaving a selection that approximates the intended 3D object.
 
 ---
+
+![Visual](GausExample.gif)
 
 ## High-level pipeline
 
